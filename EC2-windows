@@ -1,0 +1,13 @@
+Launched an EC2 instance for windows 
+Selected OS image as Windows
+Instance type
+Created new key-pair and No changes in network settings
+Configure storage- no changes and clicked launch instance
+windows-vm with running state
+Connecting to instance with RDP Client, a windows-vm-rdp file is downloaded
+Launched the windows-vm-rdp file and accepted the certificate
+Windows VM got loaded and launched successfully
+Shared the windows system info via CMD from windows vm
+
+Refer the step by step screenshots attached.
+
